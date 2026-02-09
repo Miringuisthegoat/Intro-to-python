@@ -20,6 +20,15 @@ school()#calling a function
 def multiply(x,y):
     print(x * y)
 
+
+def dog(name,breed,age):
+    print(name,breed,age)
+
+dog("Bob","German shepherd",12)
+dog("Alvin","Bulldog",2)
+dog("Virginia","Corgi",5)
+
+
 #Python program to display details of five employees at eMobilis
 #use a user defined function with the help of parameters and arguments
 #details- Fullname,Position,Age and gender
