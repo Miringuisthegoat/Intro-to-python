@@ -21,7 +21,7 @@ class Student:
 #create at least three student objects from the same class with different values and display the same information
 
 
-# Create student objects
+
 student1 = Student("Alice Omondi", "Computer Science", 20, True)
 student2 = Student("Brian Kinuthia", "Engineering", 22, False)
 student3 = Student("Jessica Mutava", "Biology", 19, True)
